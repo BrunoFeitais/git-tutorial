@@ -1,3 +1,4 @@
 file 1 test
+alteracao file 1
 Im on Master branch
 im a modified file 1
